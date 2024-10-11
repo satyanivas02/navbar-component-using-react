@@ -76,6 +76,3 @@ const Slider: React.FC = () => {
 };
 
 export default Slider;
-
-// added this comment inorder to create a pullrequest by creating a new branch
-
